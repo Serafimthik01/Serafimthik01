@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Serafim 01
-- 👀 I’m interested in programming and games
+- 👀 I’m interested in programming and game dev.
 - 🌱 I’m currently learning Python, C, C# and C++
 - 📫 How to reach me Serafimthik28@gmail.com
 
